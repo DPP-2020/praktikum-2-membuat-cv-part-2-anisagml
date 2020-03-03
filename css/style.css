@@ -1,0 +1,111 @@
+html, body{
+    height: auto;
+}
+
+.main{
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    /* display: flex; */
+    color: white;
+    margin: 0px auto;
+}
+
+.tmb {
+    border: 0px;
+    border-radius: 1px;
+    margin: 0 auto;
+    padding: 5px;
+    width: 150px;
+    align-content: center;
+}
+
+.leftBar{
+    background-color: black;
+    height: auto;
+    width: 100%;
+    padding: 10px 15px;
+}
+
+.content{
+    margin: 20px 0px;
+}
+
+.crd {
+    color: black;
+    
+}
+
+.name{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.line{
+    height: 1px;
+    background-color: white;
+}
+
+.rightBar{
+    background-color: chocolate;
+    height: auto;
+    width: 100%;
+}
+
+.titleContent{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.judul{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 2px 0px;
+}
+
+.infoContent{
+    font-size: 12px;
+    margin: 3px 0px;
+}
+
+.isiContent{
+    margin: 1px 0px;
+}
+
+.listContent{
+    font-size: 14px;
+}
+
+.softwareBarContainer {
+    height: 10px;
+    display: flex;
+    margin: 6px 0px;
+}
+
+.infoExperience{
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.softwareBarLeft{
+    height: auto;
+    background-color: white;
+}
+
+
+.softwareBarRight{
+    height: auto;
+    background-color: grey;
+}
+
+.expContent{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.experience{
+    display: flex;
+    margin: 5px 0px;
+}
+
