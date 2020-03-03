@@ -1,5 +1,6 @@
 html, body{
     height: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .main{
@@ -33,7 +34,7 @@ html, body{
 
 .crd {
     color: black;
-    
+
 }
 
 .name{
@@ -89,7 +90,7 @@ html, body{
 
 .softwareBarLeft{
     height: auto;
-    background-color: white;
+    background-color: black;
 }
 
 
@@ -107,5 +108,9 @@ html, body{
 .experience{
     display: flex;
     margin: 5px 0px;
+}
+
+.lst{
+    color: black;
 }
 
